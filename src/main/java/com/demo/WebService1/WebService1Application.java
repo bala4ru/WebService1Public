@@ -16,7 +16,7 @@ public class WebService1Application {
 	@RequestMapping(value="demo")
 	public String demo(){
 		//dummy updated..
-		//TODO
+		
 		return "Demo Welcomes you...............";
 	}
 }
